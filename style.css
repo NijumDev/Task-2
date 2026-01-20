@@ -66,5 +66,30 @@ main .img2{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+    gap: 10px;
 
+
+}
+ .c-web h1{
+    font-size: 60px;
+    color: white;
+
+ }
+ .c-web p{
+    color: white;
+ }
+  .btn-2{
+  border: 2px solid #00FF88;
+  border-radius: 10000px;
+  padding: 10px 20px;
+  background: transparent;
+  color: #00FF88;
+  }
+  .btn-1{
+  background-color: #FB09B4;
+  border-radius: 10000px;
+  padding: 10px 20px;
+  border: none;
+  color: white;
 }

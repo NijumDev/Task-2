@@ -427,6 +427,14 @@ nav ul li:hover{
     margin-bottom: 50px;
 }
 
+.why-choose p {
+   color: #d73535;
+}
+
+.title-in-grid{
+  color: white;
+} 
+
 .cards {
     display: grid;
     grid-template-columns: repeat(3, 1fr);

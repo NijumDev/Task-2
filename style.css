@@ -51,14 +51,14 @@ main {
 main .img1 {
   position: absolute;
   top: 110px;
-  left: 400px;
+  left: 450px;
 
 }
 
 main .img2 {
   position: absolute;
   top: 185px;
-  left: 520px;
+  left: 560px;
 }
 
 .p-web {
@@ -440,8 +440,8 @@ footer i {
 main h4 {
   background-color: #00FF88;
   position: absolute;
-  top: 135px;
-  left: 655px;
+  top: 150px;
+  left: 730px;
   border-radius: 10000px;
   height: 25px;
   width: 50PX;

@@ -96,6 +96,14 @@ main .img2 {
   background: transparent;
   color: #00FF88;
 }
+/* 
+.extra-button {
+  background-color: #FB09B4;
+  border-radius: 10000px;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+} */
 
 .btn-1 {
   background-color: #FB09B4;

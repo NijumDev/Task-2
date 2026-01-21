@@ -434,11 +434,7 @@ nav ul li:hover{
 .title-in-grid{
   color: white;
 } 
-
-.nijum{
-  color: red;
-}
-
+ 
 .cards {
     display: grid;
     grid-template-columns: repeat(3, 1fr);

@@ -520,7 +520,7 @@ nav ul li:hover {
 /* Responsive for Mobile device */
 @media (max-width: 768px) {
 
-  /* ===== HEADER / NAVIGATION ===== */
+  /* HEADER / NAVIGATION */
   header {
     justify-content: space-between;
     padding: 0 20px;
@@ -534,7 +534,7 @@ nav ul li:hover {
 
   header::after {
     content: "\2630";
-    /* hamburger icon ☰ */
+    /* hamburger icon  */
     font-size: 28px;
     cursor: pointer;
   }
@@ -547,7 +547,7 @@ nav ul li:hover {
     display: none;
   }
 
-  /* ===== HERO SECTION ===== */
+  /*  HERO SECTION */
   main {
     height: auto;
     padding-bottom: 100px;
@@ -583,7 +583,7 @@ nav ul li:hover {
     gap: 12px;
   }
 
-  /* ===== PODCAST STATS (2x2 GRID) ===== */
+  /*  PODCAST STATS */
   .k {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -596,7 +596,7 @@ nav ul li:hover {
     padding-top: 40px;
   }
 
-  /* ===== WHY CHOOSE GRID ===== */
+  /*  WHY CHOOSE GRID */
   .cards {
     grid-template-columns: 1fr;
   }
@@ -611,7 +611,7 @@ nav ul li:hover {
     grid-row: span 1;
   }
 
-  /* ===== IFRAME SECTION ===== */
+  /*  IFRAME SECTION*/
   .s {
     flex-direction: column;
     align-items: center;
@@ -632,7 +632,7 @@ nav ul li:hover {
     padding-bottom: 80px;
   }
 
-  /* ===== HOST SECTION ===== */
+  /*  HOST SECTION */
   .host {
     flex-direction: column;
     width: 100%;
@@ -660,7 +660,7 @@ nav ul li:hover {
     padding-bottom: 80px;
   }
 
-  /* ===== FOOTER ===== */
+  /* FOOTER */
   footer {
     height: auto;
     padding-bottom: 40px;

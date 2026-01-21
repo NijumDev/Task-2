@@ -426,14 +426,18 @@ nav ul li:hover{
     font-size: 32px;
     margin-bottom: 50px;
 }
-
+/* 
 .why-choose p {
    color: #d73535;
-}
+} */
 
 .title-in-grid{
   color: white;
 } 
+
+.nijum{
+  color: red;
+}
 
 .cards {
     display: grid;
